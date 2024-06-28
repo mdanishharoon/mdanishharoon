@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A determined software engineer who has created PACMAN ports in 3 different languages (including ASM) </h3>
+<h3 align="center">A determined software engineer who created a PACMAN port in Assembly </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
