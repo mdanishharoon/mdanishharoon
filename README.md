@@ -1,7 +1,7 @@
 
 # Oi, World! Im Danish 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=mdanishharoon&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
