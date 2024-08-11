@@ -1,5 +1,5 @@
 
-# Oi, World! Im Danish 👋
+# Salam, World! Im Danish 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdanishharoon&label=Profile%20views&color=60598F&style=flat)
 
@@ -78,9 +78,6 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
-  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
   
   </td>
   </tr>
