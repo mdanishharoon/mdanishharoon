@@ -21,9 +21,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdanishharoon&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mdanishharoon's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdanishharoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdanishharoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanishharoon&theme=tokyonight&hide_border=true" alt="mdanishharoon's Streak" height="165">
   </p>
 </div>
 
