@@ -26,34 +26,12 @@
   </p>
 </div>
 
-## 📃 I hate documentation
 
-Not many developers like to write documentation. I am one of them lowkey
-
-<!-- I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
-
-Whenever I write documentation i try to follow keep in mind the following steps to make sure the reader gets the most out of it:
-
-```markdown
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
-```
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
-
--->
 
 ### <p align="center">⚙️ My development environment </p>
-<!--
-> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
--->
+ I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
 
-> I borked windows and nixxed all over the place.
-> 
+
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
