@@ -10,7 +10,6 @@
 </div>
 
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email.</a>
-- 💬 Curious? Go away!
 
 
 # 💻 Tech Stack:
