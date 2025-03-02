@@ -22,6 +22,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
+  ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanishharoon&show_icons=true&bg_color=00000000)
     <img src="https://github-readme-stats.vercel.app/api?username=mdanishharoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdanishharoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   </p>
