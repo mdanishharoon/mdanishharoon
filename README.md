@@ -9,9 +9,9 @@
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">Upwork</a>
 
-- Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a>
+- Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a> 
 
 
 # 💻 Tech Stack:
