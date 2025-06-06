@@ -25,10 +25,11 @@
   <td valign="top" width="50%">
   
   #### 🖥️ Windows Power User
+
+  Enjoy the flexibility windows gives me. Grown fond of using WSL on windows lately!
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
-  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
   ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
   
   </td>
@@ -38,10 +39,28 @@
   
   I love working with Linux and Im always exploring new things in the vast open-source world.
   
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![NixOS](https://img.shields.io/badge/-NixOS-000000?style=flat&logo=nixos&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=zsh&logoColor=#5391FE)
+
   
   </td>
   </tr>
   </table>
 </div>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanishharoon&hide=html&hide_border=true&layout=compact&langs_count=8&theme=onedark" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanishharoon&theme=onedark&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdanishharoon&show_icons=true&theme=onedark&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
