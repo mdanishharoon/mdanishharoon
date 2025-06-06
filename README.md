@@ -13,12 +13,9 @@
 
 - Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a> 
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ### <p align="center">⚙️ My development environment </p>
- I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
+ I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development.
+ I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
 
 
 <div class="table-devenvironment">
