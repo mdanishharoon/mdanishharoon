@@ -13,8 +13,6 @@
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">Upwork</a>
 
 - 👋🏼 Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a> 
-
-### <p align="center">⚙️ My development environment </p>
  I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development.
  I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
 
@@ -64,3 +62,14 @@
   </tr>
 </table>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
