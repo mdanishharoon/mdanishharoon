@@ -14,8 +14,8 @@
 
 - 👋🏼 Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a>
   
- I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development.
- I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
+ I grew up with Windows and have a special place in my heart for it. 
+ I use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
 
 
 <div class="table-devenvironment">
