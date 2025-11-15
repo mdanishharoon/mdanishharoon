@@ -11,11 +11,7 @@
 </div>
 
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">Upwork</a>
-
 - 👋🏼 Check out my  <a href="https://danish-h.carrd.co/"> Socials! </a>
-  
- I grew up with Windows and have a special place in my heart for it. 
- I use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://[ohmyzsh.dev](https://ohmyz.sh/)/" target="_blank">Oh-My-Zsh</a> for my terminal.
 
 
 <div class="table-devenvironment">
