@@ -48,20 +48,6 @@
   </table>
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanishharoon&hide=html&hide_border=true&layout=compact&langs_count=8&theme=onedark" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdanishharoon&theme=onedark&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdanishharoon&show_icons=true&theme=onedark&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
 <picture>
   <source
