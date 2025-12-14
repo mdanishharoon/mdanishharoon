@@ -1,5 +1,5 @@
 
-# Hello, World! Im Danish Haroon 👋
+# Hello, World! Im Danish Haroon
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdanishharoon&label=Profile%20views&color=60598F&style=flat)
 [![wakatime](https://wakatime.com/badge/user/f174fb08-b0d3-44cc-8552-a18458e287a8.svg)](https://wakatime.com/@f174fb08-b0d3-44cc-8552-a18458e287a8)
