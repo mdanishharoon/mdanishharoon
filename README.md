@@ -1,5 +1,9 @@
+- Hi, Im Danish, Currently on a product management larp
+- Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">Upwork</a>
 
-# Hello, World! Im Danish Haroon
+
+
+<!--
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdanishharoon&label=Profile%20views&color=60598F&style=flat)
 [![wakatime](https://wakatime.com/badge/user/f174fb08-b0d3-44cc-8552-a18458e287a8.svg)](https://wakatime.com/@f174fb08-b0d3-44cc-8552-a18458e287a8)
@@ -9,9 +13,6 @@
 
 
 </div>
-
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">Upwork</a>
-
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
