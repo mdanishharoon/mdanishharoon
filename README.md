@@ -1,7 +1,7 @@
 - Hi, Im Danish
 - Got a freelance gig? Hit me up via <a href="mailto:danishh.h@icloud.com">email</a> OR check me out on <a href="https://www.upwork.com/freelancers/~01b9a46df790944107?mp_source=share">upwork</a>
 
-
+![My contributions](./profile-3d-contrib/terrain.svg)
 
 <!--
 
